@@ -1,82 +1,10 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": true
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 17
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 18
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 19
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 20
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 21
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 22
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 23
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 24
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 25
-    },
-    {
       "name": "",
       "category": "Produce",
       "isInCart": false,
       "id": 26
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 27
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 28
     },
     {
       "name": "",
@@ -95,12 +23,6 @@
       "category": "Produce",
       "isInCart": false,
       "id": 31
-    },
-    {
-      "name": "",
-      "category": "Produce",
-      "isInCart": true,
-      "id": 32
     },
     {
       "name": "",
@@ -278,45 +200,15 @@
     },
     {
       "name": "",
-      "category": "Dairy",
+      "category": "Produce",
       "isInCart": false,
-      "id": 62
-    },
-    {
-      "name": "",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 63
-    },
-    {
-      "name": "",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 64
-    },
-    {
-      "name": "",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 65
-    },
-    {
-      "name": "",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 66
-    },
-    {
-      "name": "",
-      "category": "Dairy",
-      "isInCart": false,
-      "id": 67
+      "id": 68
     },
     {
       "name": "",
       "category": "Produce",
       "isInCart": false,
-      "id": 68
+      "id": 69
     }
   ]
 }
